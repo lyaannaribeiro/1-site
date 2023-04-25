@@ -21,7 +21,7 @@
 
 .cabecalho-meu-nome{
 	margin-top: 50px;
-	margin-right: 800px;
+	margin-right: 700px;
 
 }
 
@@ -41,7 +41,7 @@
 	display: flex;
 	justify-content: center;
 	align-items: center;
-	padding: 70px 0;
+	padding: 100px 0;
 
 }
 
@@ -75,6 +75,10 @@
 .rodape {
 	background-color: #7019B4 ;
 
+}
+
+.nome {
+	
 }
 
 .texto {
